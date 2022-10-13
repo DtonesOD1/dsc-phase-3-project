@@ -1,6 +1,7 @@
-# dsc-phase-3-project
-Flatiron Data Science Phase 3 Project
-# Business Understanings:
+
+#Flatiron Data Science Phase 3 Project
+### dsc-phase-3-project
+# Business Understandings:
 From our initial look at Telecom's data, we see that they have an average churn rate of essentially 15%. There was no time frame given but this is usually measured over the course of a year. A general rule of thumb in business is that anything above 10% in terms of churning is too high.
 This leads us to believe that the company is losing money.
 There has been data that shows that acquiring new customers can cost 5x as much as retaining existing ones. Keeping this adage in mind is what is driving this project to attempt to lower the churn rate to anywhere from 10%-7%. If this can be successfully done the company can greatly increase it's profit margins.
@@ -86,4 +87,9 @@ What is the average length of time a customer spends on the phone with customer 
 A customer survey could also be a good idea.
 
 
+## References
 
+sweetviz:
+https://github.com/DtonesOD1/dsc-phase-3-project/blob/main/SWEETVIZ_REPORT.html
+models:
+https://github.com/DtonesOD1/dsc-phase-3-project/blob/main/models.ipynb
