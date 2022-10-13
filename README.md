@@ -89,7 +89,33 @@ A customer survey could also be a good idea.
 
 ## References
 
-sweetviz:
+### sweetviz:
 https://github.com/DtonesOD1/dsc-phase-3-project/blob/main/SWEETVIZ_REPORT.html
-models:
+
+### models:
 https://github.com/DtonesOD1/dsc-phase-3-project/blob/main/models.ipynb
+
+### reference
+https://www.outboundengine.com/blog/customer-retention-marketing-vs-customer-acquisition-marketing/#:~:text=Acquiring%20a%20new%20customer%20can,customer%20is%205%2D20%25.
+
+
+### Annotations 
+https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/
+
+https://www.skytowner.com/explore/applying_an_offset_to_annotations_in_matplotlib
+
+
+### Plots Histogram over plot
+https://androidkt.com/plot-two-overlay-histograms-on-single-chart-with-pandas-and-matplotlib/
+
+### Imbalanced data sets
+
+https://towardsdatascience.com/weighted-logistic-regression-for-imbalanced-dataset-9a5cd88e68b
+
+### XGBoost parameters
+
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
+### Stats and ML
+
+https://statquest.org/
